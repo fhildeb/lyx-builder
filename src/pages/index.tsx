@@ -45,7 +45,7 @@ export default function Home() {
           </div>
 
           <div>
-            <div className="h-44 w-60 relative my-16">
+            <div className="h-44 w-60 relative my-20">
               <Image
                 className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70]"
                 src="/lyx_token_symbol.svg"
@@ -136,7 +136,7 @@ export default function Home() {
               </div>
             </div>
 
-            <div className="rounded-lg border border-red-100 p-5 bg-pink-50 mt-4 mb-32 text-center">
+            <div className="rounded-lg border border-red-100 p-5 bg-pink-50 mt-4 text-center">
               This Application Framework was created using Next for React. Visit
               the{' '}
               <a
