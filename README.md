@@ -1,3 +1,5 @@
+**This repository was transferred to [lukso-network/tools-lyx-builder](https://github.com/lukso-network/tools-lyx-builder) and is no longer maintained.**
+
 # lyx-builder
 
 This repository is an open source framework to build LUKSO dApps with ease.
