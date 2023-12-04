@@ -1,4 +1,4 @@
-**This repository was transferred to [lukso-network/tools-lyx-builder](https://github.com/lukso-network/tools-lyx-builder) and is no longer maintained.**
+**This repository was transferred to [lukso-network/tools-dapp-boilerplate](https://github.com/lukso-network/tools-dapp-boilerplate) and is no longer maintained.**
 
 # lyx-builder
 
